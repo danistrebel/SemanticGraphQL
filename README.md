@@ -20,3 +20,5 @@ query {
 1. Clone this repo
 1. From the root directory run `sbt run`
 1. Open `http://localhost:9000/graphiql` and try the query from above.
+
+![Example Graphiql](https://raw.githubusercontent.com/danistrebel/SemanticGraphQL/master/public/images/graphiql.png)
